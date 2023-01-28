@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PointAndLine.BL.MyLine" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAEGEAAAAAAAAAAAAIAQAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>BL\MyLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointAndLine.BL.MyPoint" Collapsed="true">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAGAAAAAAQAAAAAAABgAGACAAA=</HashCode>
+      <FileName>BL\MyPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointAndLine.UI.LineUI" Collapsed="true">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\LineUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointAndLine.UI.MenuUI" Collapsed="true">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAgAAAgAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>UI\MenuUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointAndLine.UI.MyPointUI" Collapsed="true">
+    <Position X="1" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAQAAAAAAAAEIAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\MyPointUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

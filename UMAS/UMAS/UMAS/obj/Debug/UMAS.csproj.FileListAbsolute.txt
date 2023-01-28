@@ -1,0 +1,35 @@
+F:\second semester\UMAS\UMAS\bin\Debug\UMAS.exe.config
+F:\second semester\UMAS\UMAS\bin\Debug\UMAS.exe
+F:\second semester\UMAS\UMAS\bin\Debug\UMAS.pdb
+F:\second semester\UMAS\UMAS\obj\Debug\UMAS.csproj.AssemblyReference.cache
+F:\second semester\UMAS\UMAS\obj\Debug\UMAS.csproj.CoreCompileInputs.cache
+F:\second semester\UMAS\UMAS\obj\Debug\UMAS.exe
+F:\second semester\UMAS\UMAS\obj\Debug\UMAS.pdb
+D:\UMAS\UMAS\UMAS\bin\Debug\UMAS.exe.config
+D:\UMAS\UMAS\UMAS\bin\Debug\UMAS.exe
+D:\UMAS\UMAS\UMAS\bin\Debug\UMAS.pdb
+D:\UMAS\UMAS\UMAS\obj\Debug\UMAS.csproj.AssemblyReference.cache
+D:\UMAS\UMAS\UMAS\obj\Debug\UMAS.csproj.CoreCompileInputs.cache
+D:\UMAS\UMAS\UMAS\obj\Debug\UMAS.exe
+D:\UMAS\UMAS\UMAS\obj\Debug\UMAS.pdb
+D:\UMAS\UMAS\bin\Debug\UMAS.exe.config
+D:\UMAS\UMAS\bin\Debug\UMAS.exe
+D:\UMAS\UMAS\bin\Debug\UMAS.pdb
+D:\UMAS\UMAS\obj\Debug\UMAS.csproj.AssemblyReference.cache
+D:\UMAS\UMAS\obj\Debug\UMAS.csproj.CoreCompileInputs.cache
+D:\UMAS\UMAS\obj\Debug\UMAS.exe
+D:\UMAS\UMAS\obj\Debug\UMAS.pdb
+D:\New folder\UMAS\UMAS\bin\Debug\UMAS.exe.config
+D:\New folder\UMAS\UMAS\bin\Debug\UMAS.exe
+D:\New folder\UMAS\UMAS\bin\Debug\UMAS.pdb
+D:\New folder\UMAS\UMAS\obj\Debug\UMAS.csproj.AssemblyReference.cache
+D:\New folder\UMAS\UMAS\obj\Debug\UMAS.csproj.CoreCompileInputs.cache
+D:\New folder\UMAS\UMAS\obj\Debug\UMAS.exe
+D:\New folder\UMAS\UMAS\obj\Debug\UMAS.pdb
+C:\Users\Dell\Desktop\UMAS\UMAS\UMAS\bin\Debug\UMAS.exe.config
+C:\Users\Dell\Desktop\UMAS\UMAS\UMAS\bin\Debug\UMAS.exe
+C:\Users\Dell\Desktop\UMAS\UMAS\UMAS\bin\Debug\UMAS.pdb
+C:\Users\Dell\Desktop\UMAS\UMAS\UMAS\obj\Debug\UMAS.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\UMAS\UMAS\UMAS\obj\Debug\UMAS.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\UMAS\UMAS\UMAS\obj\Debug\UMAS.exe
+C:\Users\Dell\Desktop\UMAS\UMAS\UMAS\obj\Debug\UMAS.pdb

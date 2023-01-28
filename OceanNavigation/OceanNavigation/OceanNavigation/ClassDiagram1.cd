@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="&lt;&lt;degrees &gt;= 0 &amp;&amp; degrees &lt;= 180 &amp;&amp; minutes &gt;= 0 &amp;&amp; minutes &lt;= 59 &amp;&amp; (direction == 'W' || direction == 'E')&gt;&gt;">
+    <Position X="4.385" Y="5.635" Height="0.781" Width="2.502" />
+  </Comment>
+  <Comment CommentText="&lt;&lt;degrees &gt;= 0 &amp;&amp; degrees &lt;= 90 &amp;&amp; minutes &gt;= 0 &amp;&amp; minutes &lt;= 59 &amp;&amp; (direction == 'S' || direction == 'N'))&gt;&gt;">
+    <Position X="4.417" Y="3.229" Height="0.75" Width="2.367" />
+  </Comment>
+  <Class Name="OceanNavigation.BL.Angle">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAgAAABAIAAAAAAABAEAAAIAAIAAAAAAAgAEAAA=</HashCode>
+      <FileName>BL\Angle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanNavigation.BL.Ship">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAgEAAAAACAAgIBAAAAAAAAAAAAAgAAAAgAAA=</HashCode>
+      <FileName>BL\Ship.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Latitude" />
+      <Field Name="Longitude" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="OceanNavigation.DL.ShipDL">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAEAAAAAACAAAAAAAAAAAgAAAAgAAAAA=</HashCode>
+      <FileName>DL\ShipDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="ship" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="OceanNavigation.UI.AngleUI" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAgAAAAAAgAAAAAAAIAAAAAAAAAQAAAAAQ=</HashCode>
+      <FileName>UI\AngleUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanNavigation.UI.MenuUI" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgASAAAAAAAAAAAAAAAgIAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\MenuUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanNavigation.UI.ShipUI" Collapsed="true">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAgAAAQAAAAAAAAAACAAAAAAAAAAAg=</HashCode>
+      <FileName>UI\ShipUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameObject.BL.Boundry">
+    <Position X="1" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggAgAAAEAgAABAAAAAAAAAAAAQAAAAAAAAACAHAAEA=</HashCode>
+      <FileName>BL\Boundry.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Borders" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GameObject.BL.GameObj">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <AssociationLine Name="permises" Type="GameObject.BL.Boundry" ManuallyRouted="true">
+      <Path>
+        <Point X="8" Y="1.5" />
+        <Point X="8" Y="0.49" />
+        <Point X="1.75" Y="0.49" />
+        <Point X="1.75" Y="1.5" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAIAIAIIgAAAAAAAAABCAAAAIABAACAgAAABAA=</HashCode>
+      <FileName>BL\GameObj.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="StartingPoint" />
+      <Field Name="permises" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GameObject.BL.Point">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAABgAGAAAAA=</HashCode>
+      <FileName>BL\Point.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,2 @@
+milk,grocery,100,2,3
+mangoes,fruit,100,5,3

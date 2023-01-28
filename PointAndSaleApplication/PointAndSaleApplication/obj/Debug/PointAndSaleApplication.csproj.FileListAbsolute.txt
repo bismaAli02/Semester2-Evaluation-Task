@@ -1,0 +1,14 @@
+F:\second semester\PointAndSaleApplication\PointAndSaleApplication\bin\Debug\PointAndSaleApplication.exe.config
+F:\second semester\PointAndSaleApplication\PointAndSaleApplication\bin\Debug\PointAndSaleApplication.exe
+F:\second semester\PointAndSaleApplication\PointAndSaleApplication\bin\Debug\PointAndSaleApplication.pdb
+F:\second semester\PointAndSaleApplication\PointAndSaleApplication\obj\Debug\PointAndSaleApplication.csproj.AssemblyReference.cache
+F:\second semester\PointAndSaleApplication\PointAndSaleApplication\obj\Debug\PointAndSaleApplication.csproj.CoreCompileInputs.cache
+F:\second semester\PointAndSaleApplication\PointAndSaleApplication\obj\Debug\PointAndSaleApplication.exe
+F:\second semester\PointAndSaleApplication\PointAndSaleApplication\obj\Debug\PointAndSaleApplication.pdb
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\PointAndSaleApplication\PointAndSaleApplication\obj\Debug\PointAndSaleApplication.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\PointAndSaleApplication\PointAndSaleApplication\obj\Debug\PointAndSaleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\PointAndSaleApplication\PointAndSaleApplication\obj\Debug\PointAndSaleApplication.exe
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\PointAndSaleApplication\PointAndSaleApplication\obj\Debug\PointAndSaleApplication.pdb
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\PointAndSaleApplication\PointAndSaleApplication\bin\Debug\PointAndSaleApplication.exe.config
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\PointAndSaleApplication\PointAndSaleApplication\bin\Debug\PointAndSaleApplication.exe
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\PointAndSaleApplication\PointAndSaleApplication\bin\Debug\PointAndSaleApplication.pdb

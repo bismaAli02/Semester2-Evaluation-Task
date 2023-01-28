@@ -1,0 +1,14 @@
+D:\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+D:\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+D:\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+D:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+D:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+D:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+D:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb

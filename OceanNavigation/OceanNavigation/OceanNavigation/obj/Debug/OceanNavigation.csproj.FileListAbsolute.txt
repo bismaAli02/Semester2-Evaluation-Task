@@ -1,0 +1,21 @@
+F:\second semester\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe.config
+F:\second semester\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe
+F:\second semester\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.pdb
+F:\second semester\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.AssemblyReference.cache
+F:\second semester\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.CoreCompileInputs.cache
+F:\second semester\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.exe
+F:\second semester\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.pdb
+D:\New folder\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe.config
+D:\New folder\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe
+D:\New folder\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.pdb
+D:\New folder\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.AssemblyReference.cache
+D:\New folder\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.CoreCompileInputs.cache
+D:\New folder\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.exe
+D:\New folder\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.pdb
+C:\Users\Dell\Desktop\OceanNavigation\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe.config
+C:\Users\Dell\Desktop\OceanNavigation\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe
+C:\Users\Dell\Desktop\OceanNavigation\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.pdb
+C:\Users\Dell\Desktop\OceanNavigation\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\OceanNavigation\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\OceanNavigation\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.exe
+C:\Users\Dell\Desktop\OceanNavigation\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.pdb

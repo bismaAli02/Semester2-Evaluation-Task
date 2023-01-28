@@ -1,0 +1,2 @@
+Tea,drink,1500
+Biryani,Food,500

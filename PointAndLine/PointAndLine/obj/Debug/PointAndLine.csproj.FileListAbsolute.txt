@@ -1,0 +1,14 @@
+F:\second semester\PointAndLine\PointAndLine\bin\Debug\PointAndLine.exe.config
+F:\second semester\PointAndLine\PointAndLine\bin\Debug\PointAndLine.exe
+F:\second semester\PointAndLine\PointAndLine\bin\Debug\PointAndLine.pdb
+F:\second semester\PointAndLine\PointAndLine\obj\Debug\PointAndLine.csproj.AssemblyReference.cache
+F:\second semester\PointAndLine\PointAndLine\obj\Debug\PointAndLine.csproj.CoreCompileInputs.cache
+F:\second semester\PointAndLine\PointAndLine\obj\Debug\PointAndLine.exe
+F:\second semester\PointAndLine\PointAndLine\obj\Debug\PointAndLine.pdb
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\PointAndLine\PointAndLine\bin\Debug\PointAndLine.exe.config
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\PointAndLine\PointAndLine\bin\Debug\PointAndLine.exe
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\PointAndLine\PointAndLine\bin\Debug\PointAndLine.pdb
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\PointAndLine\PointAndLine\obj\Debug\PointAndLine.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\PointAndLine\PointAndLine\obj\Debug\PointAndLine.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\PointAndLine\PointAndLine\obj\Debug\PointAndLine.exe
+C:\Users\Dell\Desktop\UniversityData\UniversityData\second semester\PointAndLine\PointAndLine\obj\Debug\PointAndLine.pdb
